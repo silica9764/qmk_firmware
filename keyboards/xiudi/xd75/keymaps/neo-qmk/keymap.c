@@ -67,9 +67,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
     [_L4] = LAYOUT_ortho_5x15(
         KC_ESC,  DE_1,    DE_2,    DE_3,    DE_4,    DE_5,    DE_6,    DE_7,    DE_8,    DE_9,    DE_0,    DE_SS,   DE_ACUT, KC_DEL,  KC_BSPC,
-        KC_TAB,  DE_Q,    DE_W,    DE_E,    DE_R,    DE_T,    DE_Z,    DE_U,    DE_I,    DE_O,    DE_P,    DE_UDIA, KC_VOLD, KC_MUTE, KC_VOLU,
+        KC_TAB,  DE_Q,    DE_W,    DE_E,    DE_R,    DE_T,    DE_Y,    DE_U,    DE_I,    DE_O,    DE_P,    DE_UDIA, KC_VOLD, KC_MUTE, KC_VOLU,
         KC_TRNS, DE_A,    DE_S,    DE_D,    DE_F,    DE_G,    DE_H,    DE_J,    DE_K,    DE_L,    DE_ODIA, DE_ADIA, KC_PGUP, KC_UP,   KC_PGDN,
-        KC_LSFT, DE_Y,    DE_X,    DE_C,    DE_V,    DE_B,    DE_N,    DE_M,    DE_COMM, DE_DOT,  DE_MINS, KC_RSFT, KC_LEFT, KC_DOWN, KC_RGHT,
+        KC_LSFT, DE_Z,    DE_X,    DE_C,    DE_V,    DE_B,    DE_N,    DE_M,    DE_COMM, DE_DOT,  DE_MINS, KC_RSFT, KC_LEFT, KC_DOWN, KC_RGHT,
         KC_LCTL, KC_LCTL, KC_LGUI, KC_LALT, KC_SPC,  KC_SPC,  KC_ENT,  KC_SPC,  KC_ESC,  KC_RCTL, KC_RGUI, KC_RALT, KC_RALT, KC_TRNS, KC_TRNS
     ),
 
